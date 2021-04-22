@@ -458,6 +458,7 @@ ul#nav li.current a { color: #F06000; }
 	transition: opacity 0.3s ease-in-out;
 
    background: url(../images/greyImage.png) repeat;
+   opacity: 0.6;
 }
 .portfolio-item .item-wrap .link-icon {
    display: block;

@@ -487,11 +487,11 @@ ul#nav li.current a { color: #F06000; }
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {
-   font: 15px/22px 'opensans-bold', sans-serif;
+   font: 14px/21px 'opensans-bold', sans-serif;
    color: #fff;
 }
 .portfolio-item .portfolio-item-meta p {
-   font: 13px/19px 'opensans-regular', sans-serif;
+   font: 12px/18px 'opensans-regular', sans-serif;
    color: #fff;
    margin-bottom: 0;
 }

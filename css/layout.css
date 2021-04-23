@@ -458,7 +458,6 @@ ul#nav li.current a { color: #F06000; }
 	transition: opacity 0.3s ease-in-out;
 
    background: url(../images/greyImage.png) repeat;
-   opacity: 0.6;
 }
 .portfolio-item .item-wrap .link-icon {
    display: block;
@@ -502,12 +501,12 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item:hover .overlay {
 	opacity: 1;
 	-moz-opacity: 1;
-	filter:alpha(opacity=100);
+	filter:alpha(opacity=60);
 }
 .portfolio-item:hover .link-icon {
    opacity: 1;
 	-moz-opacity: 1;
-	filter:alpha(opacity=100);
+	filter:alpha(opacity=60);
 }
 
 /* popup modal */

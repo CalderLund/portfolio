@@ -499,13 +499,13 @@ ul#nav li.current a { color: #F06000; }
 
 /* on hover */
 .portfolio-item:hover .overlay {
-	opacity: 1;
-	-moz-opacity: 1;
+	opacity: 0.6;
+	-moz-opacity: 0.6;
 	filter:alpha(opacity=60);
 }
 .portfolio-item:hover .link-icon {
-   opacity: 1;
-	-moz-opacity: 1;
+   opacity: 0.6;
+	-moz-opacity: 0.6;
 	filter:alpha(opacity=60);
 }
 

@@ -498,14 +498,14 @@ ul#nav li.current a { color: #F06000; }
 
 /* on hover */
 .portfolio-item:hover .overlay {
-	opacity: 0.85;
-	-moz-opacity: 0.85;
-	filter:alpha(opacity=85);
+	opacity: 0.9;
+	-moz-opacity: 0.9;
+	filter:alpha(opacity=90);
 }
 .portfolio-item:hover .link-icon {
-   opacity: 0.85;
-	-moz-opacity: 0.85;
-	filter:alpha(opacity=85);
+   opacity: 0.9;
+	-moz-opacity: 0.9;
+	filter:alpha(opacity=90);
 }
 
 /* popup modal */
